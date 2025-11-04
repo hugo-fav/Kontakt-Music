@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
         </a>
       </div>
       <p className="text-sm text-gray-500 mt-1">
-        © {new Date().getFullYear()} KOMTAKT MUSIC. All rights reserved.
+        © {new Date().getFullYear()} KONTAKT MUSIC. All rights reserved.
       </p>
     </footer>
   );
