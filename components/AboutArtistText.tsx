@@ -1,3 +1,5 @@
+import BookNow from "./BookNow";
+
 export default function AboutArtistText() {
   return (
     <div className="max-w-xl  sm:text-left">
@@ -103,6 +105,7 @@ export default function AboutArtistText() {
         Physics and studies in Music Technology from the Federal University of
         Technology, Owerri (details to confirm).
       </p>
+      <BookNow />
     </div>
   );
 }

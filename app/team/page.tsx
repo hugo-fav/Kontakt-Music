@@ -25,7 +25,7 @@ export default function Team() {
   ];
 
   return (
-    <div className="w-full px-6 md:px-16 lg:px-32 py-20 bg-background text-foreground space-y-24">
+    <div className="w-full px-6 md:px-16 lg:px-32 py-30 bg-background text-foreground space-y-24">
       {/* Intro paragraph */}
       <div className="max-w-3xl mx-auto text-center">
         <h1 className="text-yellow-300 text-4xl font-bold mb-4">
@@ -46,7 +46,7 @@ export default function Team() {
           key={index}
           className={`flex flex-col ${
             index % 2 === 1 ? "sm:flex-row-reverse" : "sm:flex-row"
-          } items-center sm:items-center gap-10`}
+          }  gap-10`}
         >
           {/* Image */}
           <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-[22rem] lg:h-[22rem] overflow-hidden rounded-xl shadow-lg flex-shrink-0 mx-auto">
@@ -63,17 +63,19 @@ export default function Team() {
           </div>
 
           {/* Text */}
-          <div className="sm:w-1/2 text-center sm:text-left">
+          <div className="sm:w-1/2 text-center ">
             <h2 className="text-yellow-300 text-2xl font-semibold mb-4">
               {section.title}
             </h2>
-            <p className="text-gray-300 leading-relaxed">{section.text}</p>
+            <p className=" text-gray-300 leading-relaxed sm:text-left">
+              {section.text}
+            </p>
           </div>
         </div>
       ))}
 
       {/* Closing Paragraph */}
-      <div className="max-w-3xl mx-auto text-center  leading-relaxed">
+      <div className="max-w-3xl text-yellow-100 mx-auto  text-center leading-relaxed">
         Each member of our team contributes uniquely to the shared vision of
         transforming the entertainment industry. United and driven by purpose
         and passion, we continue to create, inspire, and connect through the

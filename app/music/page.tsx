@@ -7,7 +7,7 @@ const artists = [
 
 export default function MusicPage() {
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-4 gap-8 w-full px-9 md:px-16 lg:px-32 py-20 bg-background text-foreground">
+    <div className="grid grid-cols-2 sm:grid-cols-4 gap-8 w-full px-9 md:px-16 lg:px-32 py-30 bg-background text-foreground">
       {artists.map((artist, index) => (
         <a
           key={index}
