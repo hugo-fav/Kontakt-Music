@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer: React.FC = () => {
   return (
-    <footer className="py-10 bg-black text-center border-gray-100">
+    <footer className=" py-10 bg-black text-center border-gray-100 ">
       <div className="mb-4 flex justify-center space-x-6">
         <a
           href="mailto:info.kontaktmusic@gmail.com"
