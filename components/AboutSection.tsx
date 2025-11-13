@@ -12,7 +12,7 @@ const AboutSection: React.FC = () => {
         <p className="text-lg leading-relaxed text-gray-200 md:text-xl">
           <span className="text-yellow-300">KONTAKT MUSIC LIMITED</span> is a
           multifaceted record label and entertainment powerhouse headquartered
-          in Lagos, founded in 2024 by{" "}
+          in Akwa Ibom, founded in 2024 by{" "}
           <span className="font-semibold">Edem Edmund</span> with the primary
           purpose of fostering innovation, entrepreneurship, and groundbreaking
           talent management, development, and presentation pushing creative
