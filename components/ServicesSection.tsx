@@ -6,9 +6,9 @@ interface Service {
 }
 
 const services: Service[] = [
-  { title: "PRODUCTION" },
-  { title: "MANAGEMENT" },
-  { title: "LABEL SERVICE" },
+  { title: "TALENT DEVELOPMENT" },
+  { title: "MANAGEMENT & PRESENTATION" },
+  { title: "LABEL SERVICES" },
   { title: "MERCHANDISE" },
   { title: "BRANDING" },
   { title: "CULTURE STRATEGY" },

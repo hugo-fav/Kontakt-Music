@@ -5,7 +5,7 @@ export default function Team() {
     {
       img: "/t1.jpg",
       title: "CEO – Edem Edmund",
-      text: "As the Chief Executive Officer, Edem Edmund provides the strategic vision and leadership that drives Kontakt Music Limited forward. With an in-depth understanding of the entertainment industry and a passion for grooming creative minds, he oversees the company’s growth, partnerships, and long-term direction.",
+      text: "As the Chief Executive Officer, Edem Edmund provides the strategic vision and leadership that drives Kontakt Music Limited forward. With an in-depth understanding of the entertainment industry and a passion for mentoring creative minds, he oversees the company’s growth, partnerships, and long-term direction.",
     },
     {
       img: "/t4.jpg",
@@ -14,8 +14,8 @@ export default function Team() {
     },
     {
       img: "/t3.jpg",
-      title: "Legal Advisor – Richard Lyod Steinhart",
-      text: "As the Legal Advisor, Richard Lyod Steinhart plays a vital role in safeguarding the company’s integrity and compliance. From intellectual property, to contracts and partnerships, he ensures that every legal framework upholds the standards and reputation of Kontakt Music Limited.",
+      title: "Business Advisor – Richard Lyod Steinhart",
+      text: "With over 50 years of experience in the music industry as a performer, producer, and owner of Bight Me Records LLC, Richard Lyod Steinhart, as the Business Advisor, plays a vital role in safeguarding the company’s integrity and compliance. From intellectual property, to contracts and partnerships, he ensures that every legal framework upholds the standards and reputation of Kontakt Music Limited.",
     },
     {
       img: "/t5.jpg",
