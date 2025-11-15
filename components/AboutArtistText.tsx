@@ -30,7 +30,7 @@ export default function AboutArtistText() {
         Selected achievements
       </h4>
       <p className="text-gray-300 leading-relaxed">
-        Founder & CEO of Kontakt Music Limited (est. 2024). live performances at
+        Founder & CEO of Kontakt Music Limited (est. 2024). Live performances at
         major Lagos venues and university tours, and mentor at Kontakt Concept
         Academy.
       </p>
