@@ -14,8 +14,8 @@ export default function Team() {
     },
     {
       img: "/t3.jpg",
-      title: "Business Advisor – Richard Lyod Steinhart",
-      text: "With over 50 years of experience in the music industry as a performer, producer, and owner of Bight Me Records LLC, Richard Lyod Steinhart, as the Business Advisor, plays a vital role in safeguarding the company’s integrity and compliance. From intellectual property, to contracts and partnerships, he ensures that every legal framework upholds the standards and reputation of Kontakt Music Limited.",
+      title: "Business Advisor – Richard Lloyd Steinhart",
+      text: "With over 50 years of experience in the music industry as a performer, producer, and owner of Bight Me Records LLC, Richard Llyod Steinhart, as the Business Advisor, plays a vital role in safeguarding the company’s integrity and compliance from intellectual property, to contracts and partnerships. He ensures that every legal framework upholds the standards and reputation of Kontakt Music Limited.",
     },
     {
       img: "/t5.jpg",

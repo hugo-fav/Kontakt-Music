@@ -30,10 +30,9 @@ export default function AboutArtistText() {
         Selected achievements
       </h4>
       <p className="text-gray-300 leading-relaxed">
-        Founder & CEO of Kontakt Music Limited (est. 2024). Sync interest from
-        BMG Rights Management, discussions with Guinness Nigeria, live
-        performances at major Lagos venues and university tours, and mentor at
-        Kontakt Concept Academy.
+        Founder & CEO of Kontakt Music Limited (est. 2024). live performances at
+        major Lagos venues and university tours, and mentor at Kontakt Concept
+        Academy.
       </p>
 
       <h4 className="text-yellow-300 font-medium mt-3">Socials</h4>
