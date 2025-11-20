@@ -8,6 +8,7 @@ const artists = [
   { img: "/coverimg5.jpg", link: "https://onerpm.link/509845660629" },
   { img: "/coverimg6.jpg", link: "https://onerpm.link/444715281058" },
   { img: "/coverimg7.jpg", link: "https://onerpm.link/768089002609" },
+  { img: "/coverimg8.jpg", link: "https://artists.landr.com/057914074139" },
 ];
 
 export default function MusicPage() {
