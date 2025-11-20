@@ -16,6 +16,7 @@ export default function AboutArtistText() {
       <ul className="list-disc pl-5 my-3">
         <li>Stage name: Remeddie</li>
         <li>Hometown: Akwa Ibom, Nigeria</li>
+        <li>D.O.B: 18-02-1997</li>
         <li>
           Discography highlights: Thesis EP (2023), Clear as Mud EP (2024),
           Loveless EP (2024), Sound Cheque EP (2025)
