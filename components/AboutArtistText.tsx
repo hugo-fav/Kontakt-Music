@@ -22,7 +22,7 @@ export default function AboutArtistText() {
           Loveless EP (2024), Sound Cheque EP (2025)
         </li>
         <li>
-          Latest single: "ENOUGH" (2025) — viral on campuses and playlists
+          Latest single: "COINCIDENCE" (2025) — viral on campuses and playlists
         </li>
         <li>Streams: 2M+ combined across platforms</li>
       </ul>

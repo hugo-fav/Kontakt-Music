@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 const artists = [
+  { img: "/coverimg9.jpg", link: "https://artists.landr.com/055905513438" },
   { img: "/coverimg1.jpg", link: "https://artists.landr.com/056870821252" },
   { img: "/coverimg2.jpg", link: "https://artists.landr.com/057829195158" },
   { img: "/coverimg3.jpg", link: "https://onerpm.link/786746667003" },
